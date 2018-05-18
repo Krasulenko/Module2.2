@@ -1,3 +1,5 @@
+package selfwork;
+
 public class Task3 {
     public static void main(String[] args) {
         double n, q;

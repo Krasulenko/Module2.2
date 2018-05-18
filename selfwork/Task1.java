@@ -1,3 +1,5 @@
+package selfwork;
+
 public class Task1 {
     public static void main(String[] args) {
         int q, w, a, b;
